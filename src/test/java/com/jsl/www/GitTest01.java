@@ -6,10 +6,10 @@ public class GitTest01 {
 		int i = 0;
 		int j = 1;
 		
-		String str = "수정";
+		String str = "abc";
 		
 		for(int x =1; x<=5; x++) {
-			System.out.println("두번째 깃");
+			System.out.println("fire in the hole");
 		}
 
 	}
