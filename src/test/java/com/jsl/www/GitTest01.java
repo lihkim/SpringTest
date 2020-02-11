@@ -6,8 +6,10 @@ public class GitTest01 {
 		int i = 0;
 		int j = 1;
 		
+		String str = "¼öÁ¤";
+		
 		for(int x =1; x<=5; x++) {
-			System.out.println("Ã¹¹øÂ° ±ê");
+			System.out.println("µÎ¹øÂ° ±ê");
 		}
 
 	}
